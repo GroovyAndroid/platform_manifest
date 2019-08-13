@@ -14,5 +14,7 @@
   <project path="packages/apps/PackageInstaller" name="android_packages_apps_PackageInstaller" remote="ga" />
   <project path="packages/apps/Messaging" name="android_packages_apps_Messaging" remote="ga" />
   <project path="external/skia" name="external_skia" remote="ga" />
+  <project path="art" name="art" remote="ga" />
+  <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" remote="ga" />
 
 </manifest>
